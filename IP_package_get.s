@@ -1,8 +1,8 @@
 #---------------------------------------------------------------
 # Assignment:           3
-# Due Date:             October 28, 2013
+# Due Date:             Feburary 28, 2014
 # Name:                 Lingbo Tang
-# Unix ID:              ann
+# Unix ID:              lingbo
 # Lecture Section:      A2
 # Instructor:           Jose Amaral
 # Lab Section:          LAB D02 (T 2:00 - 4:50)
